@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Tech. in Computing Science, University of Kalyani, 2004
+* M.Tech. (with Hons.) in Computing Science, Indian Statistical Institute University, 2008
+* Ph.D in Information Retrieval, Dublin City University, 2013 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2004 - Jun 2006: Software Engineer
+  * Alumnus Software Ltd.
+  * Worked on: Protocol test-suites, spam filters.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul 2008 - Dec 2009: R&D Engineer
+  * Synopsys
+  * Worked on: Developing logical synthesis tools
+
+* Nov 2016 - Present: Research Scientist 
+  * IBM Research, Ireland
+  * Working on: Information Retrieval, Information Extraction and Machine Learning
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Information Retrieval 
+* Natural Language Processing
+* Machine Learning
 
 Publications
 ======
@@ -54,6 +53,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
