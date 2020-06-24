@@ -1,6 +1,5 @@
 ---
 title: "Academic activities"
-collection: portfolio
 ---
 
 #### PC Committee Memberships
