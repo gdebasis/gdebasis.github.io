@@ -19,3 +19,4 @@ We are working towards an AI solution that will be able to make predictions abou
 
 In addition to the primary research project, I maintain a strong partnership with the academia. Currently I’m co-supervising 
 one PhD student at the [Indian Statistical Institute](https://www.isical.ac.in/), the area of his research being privacy preserving machine learning.
+

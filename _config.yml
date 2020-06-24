@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Debasis Ganguly"
 title_separator          : "-"
-name                     : &name "Debasis Ganguly"
+name                     : &name "Debasis Ganguly (anagram of 'ably degaussing'"
 description              : &description "Research Scientist, IBM Research, Ireland"
 url                      : https://gdebasis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
