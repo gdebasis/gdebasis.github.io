@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AI Researcher in IBM Research"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am an information retrieval (IR) researcher with interests in semantic search, knowledge-bases and model interpretability.
+Hi, I'm Debasis Ganguly, a research staff member at IBM Research Europe, Dublin, Ireland.
 
