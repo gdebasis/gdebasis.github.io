@@ -41,15 +41,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Academic Activities
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+* PC Memberships: SIGIR, CIKM, AAAI, WWW, ECIR, ACL/NAACL, EMNLP, CODS/COMAD etc.
+* Journal reviews: TOIS, Information Retrieval Journal (IRJ), IPM, Pattern Recognition etc. 
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
