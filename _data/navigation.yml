@@ -1,22 +1,28 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications and Patents"
+#    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
 
-#  - title: "Teaching"
+#  - title: "Workshops"
 #    url: /teaching/    
     
 #  - title: "Academic activities"
 #    url: /portfolio/
         
-  - title: "Patents"
-    url: /year-archive/
+#  - title: "Patents"
+#    url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Publications and Patents"
+    url: /patents/
     
+  - title: "Workshops"
+    url: /workshops/
+
 #  - title: "Guide"
 #    url: /markdown/
