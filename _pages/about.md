@@ -8,5 +8,3 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Debasis Ganguly, a research staff member at IBM Research Europe, Dublin, Ireland.
-
