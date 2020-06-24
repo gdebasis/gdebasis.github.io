@@ -8,3 +8,5 @@ redirect_from:
   - /about.html
 ---
 
+I am an information retrieval (IR) researcher with interests in semantic search, knowledge-bases and model interpretability.
+
