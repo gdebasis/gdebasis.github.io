@@ -7,14 +7,14 @@ redirect_from:
   - /workshops
 ---
 
-#### Open Shared Tasks
+### Open Shared Tasks
 
 * [RCD](https://rcd2020firetask.github.io/RCD2020FIRETASK/) (Retrieval From Conversational Dialogues), shared task at FIRE 2020.
 
 * [CAIR](https://cair-miners.github.io/CAIR-2020-website/#home) (Causality-driven Adhoc Information Retrieval), shared task at FIRE 2020.
 
 
-#### Previously organized workshops
+### Previously organized workshops
 
 * Second International Workshop on Exploitation of Social Media for Emergency Relief and Preparedness co-located with WWW on Information Retrieval, `SMERP@WWW 2018`,
 Lyon, France, 2018.
