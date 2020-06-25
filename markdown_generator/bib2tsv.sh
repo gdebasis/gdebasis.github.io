@@ -24,12 +24,12 @@ author_profile: true
 
 EOF1
 
-echo "#### Conferences" >> $PUBFILE
+echo "### Conferences" >> $PUBFILE
 echo "" >> $PUBFILE
 cat confs.tsv >> $PUBFILE
 
 echo "" >> $PUBFILE
-echo "#### Journals" >> $PUBFILE
+echo "### Journals" >> $PUBFILE
 echo "" >> $PUBFILE
 cat journals.tsv >> $PUBFILE
 

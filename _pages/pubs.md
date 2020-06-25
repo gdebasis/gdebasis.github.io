@@ -5,7 +5,7 @@ permalink: /pubs/
 author_profile: true
 ---
 
-#### Conferences
+### Conferences
 
 * Yufang Hou and Charles Jochim and Martin Gleize and Francesca Bonin and Debasis Ganguly, Identification of Tasks, Datasets, Evaluation Metrics, 2019
 * Chandan Biswas and Debasis Ganguly and Dwaipayan Roy and Ujjwal Bhattacharya, Privacy Preserving Approximate K-means Clustering, CIKM, pages 1321--1330, 2019
@@ -66,7 +66,7 @@ author_profile: true
 * Sukomal Pal and Mandar Mitra and Debasis Ganguly, Parameter Tuning in Pivoted Normalization for XML Retrieval: ISI@INEX09 Adhoc Focused Task, INEX, series Lecture Notes in Computer Science, 2009
 * Sukomal Pal and Mandar Mitra and Debasis Ganguly and Samaresh Maiti and Ayan Bandyopadhyay and Aparajita Sen and Sukanya Mitra, Indian Statistical Institute at INEX 2008 Adhoc Track, INEX, series Lecture Notes in Computer Science, 2008
 
-#### Journals
+### Journals
 
 * Debasis Ganguly, Learning variable-length representation of words, Pattern Recognit., volume 103, 2020
 * Chandan Biswas and Debasis Ganguly, InfecTracer: Approximate Nearest Neighbors Retrieval of GPS Location Traces to Retrieve Susceptible Cases, CoRR, volume abs/2004.08851, 2020
