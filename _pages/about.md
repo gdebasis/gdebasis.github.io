@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Debasis Ganguly, anagram of `led by assuaging` or `ably degaussing`. By profession, I'm a research staff member at IBM Research Europe, Dublin, Ireland.
+Hi, I'm Debasis Ganguly, anagram of `led by assuaging` or `ably degaussing`. By profession, I'm a research staff member at [IBM Research Europe](https://www.ibm.com/ie-en), Dublin, Ireland.
 By hobby, I'm a chess player, a long distance runner, a nature enthusiast, and an aspiring globetrotter.
 
 Generally speaking, my research activities span topics on Information Retrieval (IR) and Natural Language Processing (NLP). More specifically, I’m interested in applying
