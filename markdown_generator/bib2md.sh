@@ -17,9 +17,9 @@ cat confs.tmp | awk '{if (NF<1) {print b; b=""} else b=b" "$0;}' > confs_pp.tmp
 
 cat > bib2md.tmp << EOF1
 
-cat journals_pp.tmp |sed 's/{//g' | sed 's/}//g'|awk -F ',' '{if (NF>0) {print \$1 "\t" \$2 "\t" \$3 "\t" \$4 "\t" \$NF}}'|awk -F '\t' '{print "* " \$1"," \$2 "," \$3 "," \$4 "," \$NF}'|sed 's/author//g'|sed 's/title//g' | sed 's/journal//g'|sed 's/year//g' |sed 's/=//g'|awk '{if (NF>0) print \$0}' | sed -E 's/[ ]+/ /g' | sed "s/\\\\\//g" |sed "s/'//g" | sed 's/$AUTHOR/\*$AUTHOR\*/g' >> journals.md
+cat journals_pp.tmp |sed 's/{//g' | sed 's/}//g'|awk -F ',' '{if (NF>0) {print \$1 "\t" \$2 "\t" \$3 "\t" \$4 "\t" \$NF}}'|awk -F '\t' '{print "* " \$1"," \$2 "," \$3 "," \$4 "," \$NF}'|sed 's/author//g'|sed 's/title//g' | sed 's/journal//g'|sed 's/year//g' |sed 's/=//g'|awk '{if (NF>0) print \$0}' | sed -E 's/[ ]+/ /g' | sed "s/\\\\\//g" |sed "s/'//g" | sed 's/$AUTHOR/\*\*$AUTHOR\*\*/g' >> journals.md
 
-cat confs_pp.tmp |sed 's/{//g' | sed 's/}//g'|awk -F ',' '{if (NF>0) {print \$1 "\t" \$2 "\t" \$3 "\t" \$4 "\t" \$NF}}'|awk -F '\t' '{print "* " \$1"," \$2 "," \$3 "," \$4 "," \$NF}'|sed 's/author//g'|sed 's/booktitle//g' | sed 's/title//g'|sed 's/year//g' |sed 's/=//g'|awk '{if (NF>0) print \$0}' | sed -E 's/[ ]+/ /g' |sed "s/\\\\\//g" |sed "s/'//g"  | sed 's/$AUTHOR/\*$AUTHOR\*/g' >> confs.md
+cat confs_pp.tmp |sed 's/{//g' | sed 's/}//g'|awk -F ',' '{if (NF>0) {print \$1 "\t" \$2 "\t" \$3 "\t" \$4 "\t" \$NF}}'|awk -F '\t' '{print "* " \$1"," \$2 "," \$3 "," \$4 "," \$NF}'|sed 's/author//g'|sed 's/booktitle//g' | sed 's/title//g'|sed 's/year//g' |sed 's/=//g'|awk '{if (NF>0) print \$0}' | sed -E 's/[ ]+/ /g' |sed "s/\\\\\//g" |sed "s/'//g"  | sed 's/$AUTHOR/\*\*$AUTHOR\*\*/g' >> confs.md
 
 EOF1
 
