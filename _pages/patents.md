@@ -9,9 +9,9 @@ redirect_from:
 
 <!--### Publications
 
-All my publications could be found at my [DBLP page](https://dblp.org/pers/hd/g/Ganguly:Debasis).-->
+All my publications could be found at my [DBLP page](https://dblp.org/pers/hd/g/Ganguly:Debasis)
 
-### Patents
+### Patents -->
 
 * Discrete Representation Learning: Combinatorial Approaches to Word Representation Learning
 * Reputation Protector: Social Media post Analysis for Protecting Social Reputation
