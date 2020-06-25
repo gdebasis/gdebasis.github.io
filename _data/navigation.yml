@@ -1,7 +1,7 @@
 # main links links
 main:
-#  - title: "Publications and Patents"
-#    url: /publications/
+  - title: "Publications"
+    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
@@ -18,7 +18,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications and Patents"
+  - title: "Patents"
     url: /patents/
     
   - title: "Shared Tasks and Workshops"
