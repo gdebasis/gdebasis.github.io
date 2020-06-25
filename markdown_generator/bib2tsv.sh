@@ -12,19 +12,19 @@ cat Ganguly_Debasis.bib |awk '{if (index($0,"inproceedings")>0)f=1; else if (f==
 cat confs.tmp | awk '{if (NF<1) {print b; b=""} else b=b" "$0;}' > confs_pp.tmp
 cat confs_pp.tmp |sed 's/{//g' | sed 's/}//g'|awk -F ',' '{if (NF>0) {print $1 "\t" $2 "\t" $3 "\t" $4 "\t" $NF}}'|awk -F '\t' '{print "* " $1"," $2 "," $3 "," $4 "," $NF}'|sed 's/author//g'|sed 's/booktitle//g' | sed 's/title//g'|sed 's/year//g' |sed 's/=//g'|awk '{if (NF>0) print $0}' | sed -E 's/[ ]+/ /g' |sed "s/\\\//g" |sed "s/'//g" >> confs.tsv
 
-PUBFILE=../_pages/publications.md
+PUBFILE=../_pages/pubs.md
 
 cat > $PUBFILE << EOF1
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /pubs/
 author_profile: true
 ---
 
 EOF1
 
-echo "#### Conferences" > $PUBFILE
+echo "#### Conferences" >> $PUBFILE
 echo "" >> $PUBFILE
 cat confs.tsv >> $PUBFILE
 
