@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Workshops"
+title: "Shared Tasks and Workshops"
 permalink: /workshops/
 author_profile: true
 redirect_from:

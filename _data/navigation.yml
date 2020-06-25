@@ -15,14 +15,14 @@ main:
 #  - title: "Patents"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-
   - title: "Patents"
     url: /patents/
     
   - title: "Shared Tasks and Workshops"
     url: /workshops/
+
+  - title: "CV"
+    url: /cv/
 
 #  - title: "Guide"
 #    url: /markdown/
