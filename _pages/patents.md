@@ -7,9 +7,9 @@ redirect_from:
   - /patents
 ---
 
-### Publications
+<!--### Publications
 
-<!--All my publications could be found at my [DBLP page](https://dblp.org/pers/hd/g/Ganguly:Debasis).-->
+All my publications could be found at my [DBLP page](https://dblp.org/pers/hd/g/Ganguly:Debasis).-->
 
 ### Patents
 
