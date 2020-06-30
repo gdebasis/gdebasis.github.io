@@ -39,8 +39,9 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 
 [Swarup Chattopadhay](https://scholar.google.co.in/citations?hl=en&user=7PI1amoAAAAJ) is a PhD student at the [Indian Statistical Institute](https://www.isical.ac.in/). With Swarup, I'm investigating faster and more effective solutions of standard graph problems, such as clique, coloring, community funding etc. using embedded representations of graphs.
 
+---------
 
 ## Past student(s)
 
-[Dwaipayan Roy](https://scholar.google.com/citations?user=zmc1M2UAAAAJ&hl=en&oi=ao) graduated out of the Indian Statistical Institute[https://www.isical.ac.in/] with a PhD in 2019. He was the first PhD student of mine (co-supervised by [Mandar Mitra](https://www.isical.ac.in/~mandar/). His PhD investigated the use of embedded word representations for the purpose of improving retrieval effectiveness.
+[Dwaipayan Roy](https://scholar.google.com/citations?user=zmc1M2UAAAAJ&hl=en&oi=ao) graduated out of the [Indian Statistical Institute](https://www.isical.ac.in/) with his PhD degree in 2019. He was the first PhD student of mine (co-supervised by [Mandar Mitra](https://www.isical.ac.in/~mandar/). His PhD investigated the use of embedded word representations for the purpose of improving retrieval effectiveness.
  
