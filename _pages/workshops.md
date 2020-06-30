@@ -1,17 +1,20 @@
 ---
 layout: archive
-title: "Shared Tasks and Workshops"
+title: "Tasks and Workshops"
 permalink: /workshops/
 author_profile: true
 redirect_from:
   - /workshops
 ---
 
-### Open Shared Tasks
+### Active Shared Tasks
 
-* [RCD](https://rcd2020firetask.github.io/RCD2020FIRETASK/) (Retrieval From Conversational Dialogues), shared task at FIRE 2020.
 
-* [CAIR](https://cair-miners.github.io/CAIR-2020-website/#home) (Causality-driven Adhoc Information Retrieval), shared task at FIRE 2020.
+I'm leading the effort for the following `cool` shared tasks at [FIRE 2020](http://fire.irsi.res.in/fire/2020/home). Please consider participating in one or both of them. For any queries, you could drop me a mail.
+
+* [RCD](https://rcd2020firetask.github.io/RCD2020FIRETASK/) (Retrieval From Conversational Dialogues), shared task at [FIRE 2020](http://fire.irsi.res.in/fire/2020/home).
+
+* [CAIR](https://cair-miners.github.io/CAIR-2020-website/#home) (Causality-driven Adhoc Information Retrieval), shared task at [FIRE 2020](http://fire.irsi.res.in/fire/2020/home).
 
 
 ### Previously organized workshops
