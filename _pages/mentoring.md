@@ -11,13 +11,13 @@ Proud to mentor a number of PhD students, each possessing a bright young mind se
 
 ### Procheta Sen
 
-<img src="https://gdebasis.github.io/images/procheta.jpg" width="60>
+<img src="https://gdebasis.github.io/images/procheta.jpg" width="60">
 
 [Procheta Sen](https://www.computing.dcu.ie/~sprocheta/)
 
 ### Anirban Chakraborty
 
-<img src="https://gdebasis.github.io/images/anirban.jpg" width="60>
+<img src="https://gdebasis.github.io/images/anirban.jpg" width="60">
 
 [Anirban Chakraborty](https://www.scss.tcd.ie/~achakrab/)
 
@@ -26,13 +26,13 @@ Proud to mentor a number of PhD students, each possessing a bright young mind se
 
 ### Chandan Biswas
 
-<img src="https://gdebasis.github.io/images/chandan.jpg" width="60>
+<img src="https://gdebasis.github.io/images/chandan.jpg" width="60">
 
 [Chandan Biswas](https://scholar.google.co.in/citations?user=W2JbsRQAAAAJ&hl=en)
 
 ### Swarup Chattopadhyay
 
-<img src="https://gdebasis.github.io/images/swarup.jpg" width="60>
+<img src="https://gdebasis.github.io/images/swarup.jpg" width="60">
 
 [Swarup Chattopadhay](https://scholar.google.co.in/citations?hl=en&user=7PI1amoAAAAJ)
 
