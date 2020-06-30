@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Tasks and Workshops"
 permalink: /workshops/
 author_profile: true
