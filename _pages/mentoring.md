@@ -46,5 +46,5 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 
 ## Past PhD student
 
-[Dwaipayan Roy](https://scholar.google.com/citations?user=zmc1M2UAAAAJ&hl=en&oi=ao) graduated out of the [Indian Statistical Institute](https://www.isical.ac.in/) with his PhD degree in 2019. He was the first PhD student of mine (co-supervised by [Mandar Mitra](https://www.isical.ac.in/~mandar/). His PhD investigated the use of embedded word representations for the purpose of improving retrieval effectiveness.
+[Dwaipayan Roy](https://scholar.google.com/citations?user=zmc1M2UAAAAJ&hl=en&oi=ao) graduated out of the [Indian Statistical Institute](https://www.isical.ac.in/) with his PhD degree in 2019. He was the first PhD student of mine (co-supervised by [Mandar Mitra](https://www.isical.ac.in/~mandar/)). His PhD investigated the use of embedded word representations for the purpose of improving retrieval effectiveness.
  
