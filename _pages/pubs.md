@@ -7,6 +7,14 @@ author_profile: true
 
 ### Conferences
 
+* Anirban Chakraborty, **Debasis Ganguly** and Owen Conlan, Relevance Models for Multi-Contextual Appropriateness in
+Point-of-Interest Recommendation, SIGIR'20 (To Appear)
+[https://youtu.be/r0zXalxyML0](MP4 video presentation) 
+[http://academicpages.github.io/files/POI.pdf](Paper pre-print) 
+* Procheta Sen, **Debasis Ganguly**, Manisha Verma and Gareth J.F. Jones, The Curious Case of IR Explainability: Explaining Document Scores within and across Ranking Models, SIGIR'20 (To Appear) [https://youtu.be/OYJhZuj45hc](MP4 video presentation)
+[http://academicpages.github.io/files/RegressionBasedExplanation.pdf](Paper pre-print) 
+* Suchana Datta, **Debasis Ganguly**, Dwaipayan Roy, Francesca Bonnin, Charles Jochim and Mandar Mitra, Retrieving Potential Causes from a Query Event, SIGIR'20 (To Appear) [https://youtu.be/umUd-hEdaNg](MP4 video presentation)
+[http://academicpages.github.io/files/CausalIR_SIGIR_2020.pdf](Paper pre-print) 
 * Procheta Sen and **Debasis Ganguly**, Towards Socially Responsible AI: Cognitive Bias-Aware Multi-Objective Learning, AAAI, pages 2685--2692, 2020
 * Francesca Bonin and Martin Gleize and Ailbhe Finnerty and Candice Moore and Charles Jochim and Emma Norris and Yufang Hou and Alison J. Wright and **Debasis Ganguly** and Emily Hayes and Silje Zink and Alessandra Pascale and Pol Mac Aonghusa and Susan Michie, HBCP Corpus: A New Resource for the Analysis of Behavioural Change Intervention Reports, LREC, pages 1967--1975, 2020
 * Yufang Hou and Charles Jochim and Martin Gleize and Francesca Bonin and **Debasis Ganguly**, Identification of Tasks, Datasets, Evaluation Metrics, 2019
