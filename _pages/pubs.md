@@ -7,7 +7,7 @@ author_profile: true
 ### Conferences
 
 * Anirban Chakraborty, **Debasis Ganguly** and Owen Conlan, Robust Retrievability based Document Selection for Relevance Feedback with Automatically Generated Query Variants, CIKM'20 (To Appear)
-[Paper pre-print](http://academicpages.github.io/files/rlmqv.pdf) 
+[(Paper pre-print)](http://academicpages.github.io/files/rlmqv.pdf) 
 * Anirban Chakraborty, **Debasis Ganguly** and Owen Conlan, Relevance Models for Multi-Contextual Appropriateness in
 Point-of-Interest Recommendation, SIGIR'20 (To Appear)
 [(Video presentation)](https://youtu.be/r0zXalxyML0) 
