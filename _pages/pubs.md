@@ -6,6 +6,8 @@ author_profile: true
 
 ### Conferences
 
+* Ishani Mondal and **Debasis Ganguly**, ALEX: Active Learning based Enhancement of a Model’s EXplainability, CIKM'20 (To Appear)
+[(Paper pre-print)](https://arxiv.org/abs/2009.00859) 
 * Anirban Chakraborty, **Debasis Ganguly** and Owen Conlan, Robust Retrievability based Document Selection for Relevance Feedback with Automatically Generated Query Variants, CIKM'20 (To Appear)
 [(Paper pre-print)](http://academicpages.github.io/files/rlmqv.pdf) 
 * Anirban Chakraborty, **Debasis Ganguly** and Owen Conlan, Relevance Models for Multi-Contextual Appropriateness in
