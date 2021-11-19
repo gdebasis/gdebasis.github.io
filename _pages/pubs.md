@@ -6,6 +6,8 @@ author_profile: true
 
 ### Conferences
 
+* Suchana Datta, **Debasis Ganguly**, Mandar Mitra and Derek Greene Mondal, An Analysis of Variations in the Effectiveness of Query Performance Prediction, ECIR'22 (to appear) [pre-print)](http://gdebasis.github.io/files/QPP-ECIR.pdf).
+* Suchana Datta, **Debasis Ganguly**, Mandar Mitra and Derek Greene Mondal, Deep-QPP: A Pairwise Interaction-based Deep Learning Model for Supervised Query Performance Prediction, WSDM'22 (to appear) [pre-print)](http://gdebasis.github.io/files/supqpp.pdf).
 * Ishani Mondal and **Debasis Ganguly**, ALEX: Active Learning based Enhancement of a Model’s EXplainability, CIKM'20, pp:3309-3312.
 [(Paper pre-print)](https://arxiv.org/abs/2009.00859) 
 * Anirban Chakraborty, **Debasis Ganguly** and Owen Conlan, Retrievability based Document Selection for Relevance
