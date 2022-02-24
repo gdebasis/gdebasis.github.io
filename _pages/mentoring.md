@@ -15,7 +15,7 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 
 <img src="https://media-exp1.licdn.com/dms/image/C5103AQEqJlL-kNKMgQ/profile-displayphoto-shrink_400_400/0/1524714593946?e=1651104000&v=beta&t=IpJ4Ig8-rraAlPeip6OXr8X9uJnLVmh6JiDQLOHybY0" width="60">
 
-[Manish Chandra](https://scholar.google.co.in/citations?user=W2JbsRQAAAAJ&hl=en) is my current student who's doing a PhD (part-time) at the University of Glasgow. Manish's PhD topic involves investigation of **explanation methodologies** and their **quantitative evaluation**. 
+[Manish Chandra](https://scholar.google.co.in/citations?user=W2JbsRQAAAAJ&hl=en) is my current student who's doing a PhD (part-time) at the University of Glasgow. Manish's PhD topic involves investigation of **explanation methodologies** and their **quantitative evaluation**. He completed his post-graduation from [IIT-KGP](http://www.iitkgp.ac.in/) in 2021.
 
 
 ### Chandan Biswas
