@@ -9,4 +9,3 @@ author_profile: true
 * A preprocessed version of Reddit posts for word embedding assignments [(file)](http://gdebasis.github.io/files/reddit_posts.txt).
 * The MEN dataset for word pair similarities [(file)](http://gdebasis.github.io/files/men.txt).
 * A subset of the Glove word vectors (only for the vocab of the MEN dataset) [(file)](http://gdebasis.github.io/files/men.vocab.glovesubset.txt).
-* A subset of the IMDb movie sentiment dataset [(file)](http://gdebasis.github.io/files/imdb.small.csv).
