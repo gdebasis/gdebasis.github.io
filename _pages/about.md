@@ -14,6 +14,8 @@ By hobby, I'm a chess player, a long distance runner, a nature enthusiast, and a
 Generally speaking, my research activities span topics on Information Retrieval (IR) and Natural Language Processing (NLP). More specifically, I’m interested in applying
 semantic relationships between text units (e.g. by embedding the text units in a vector space over reals) for improving various IR and NLP tasks.
 
+My [PhD thesis](http://gdebasis.github.io/files/DGthesis.pdf) was on the topic of improving retrieval models based on the information utilised at the level of sub-documents, e.g., topics or passages. 
+
 My recent research interests include application of multi-objective neural networks for bias removal of classification systems. Check out our recent [AAAI paper on debiasing](https://aaai.org/ojs/index.php/AAAI/article/view/5654).  
 
 At IBM, my primary research project involved working towards an AI solution that will be able to make predictions about the likelihood of the success of a study (i.e. how likely it is that a given user group with certain characteristics with a set of registered interventions) is likely to change their behaviour.
