@@ -37,12 +37,11 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 
 [Dwaipayan Roy](https://scholar.google.com/citations?user=zmc1M2UAAAAJ&hl=en&oi=ao) graduated out of the [Indian Statistical Institute](https://www.isical.ac.in/) with his PhD degree in 2019. He was the first PhD student of mine (co-supervised by [Mandar Mitra](https://www.isical.ac.in/~mandar/)). His PhD investigated the use of embedded word representations for the purpose of improving retrieval effectiveness.
 
-
- ### Procheta Sen
+### Procheta Sen
 
 <img src="https://gdebasis.github.io/images/procheta.jpg" width="60">
 
-[Procheta Sen](https://www.computing.dcu.ie/~sprocheta/) is a postdoctoral researcher in University College London. I mentored her research durong her PhD studies at the [School of Computing, Dublin City University](https://www.computing.dcu.ie/), Dublin, Ireland. Her PhD supervisor was [Gareth J.F. Jones](https://www.computing.dcu.ie/~gjones/), who was also my PhD supervisor. In her PhD studies, she has investigated effective ways to model and evaluate **proactive information retrieval** (i.e. **zero-shot/few-shot** information retrieval). She is also interested in embedding algorithms and multi-objective neural learning.  
+[Procheta Sen](https://procheta.github.io/sprocheta/index.html) is now a lecturer in the University of Liverpool. I mentored her research durong her PhD studies at the [School of Computing, Dublin City University](https://www.computing.dcu.ie/), Dublin, Ireland. Her PhD supervisor was [Gareth J.F. Jones](https://www.computing.dcu.ie/~gjones/), who was also my PhD supervisor. In her PhD studies, she has investigated effective ways to model and evaluate **proactive information retrieval** (i.e. **zero-shot/few-shot** information retrieval). She is also interested in embedding algorithms and multi-objective neural learning.  
 
 ### Anirban Chakraborty
 
