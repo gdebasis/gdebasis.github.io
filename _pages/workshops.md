@@ -6,8 +6,11 @@ redirect_from:
   - /workshops
 ---
 
-### Active Shared Tasks
+### Recent workshop organized
 
+* [PASIR](https://pasircikm2022.github.io/PASIRCIKM/) -- First Workshop on Proactive and Agent-Supported Information Retrieval organized as a part of [CIKM 2022](https://www.cikm2022.org/)
+
+### Past Shared Tasks
 
 I'm leading the effort for the following `cool` shared tasks at [FIRE 2020](http://fire.irsi.res.in/fire/2020/home). Please consider participating in one or both of them. For any queries, you could drop me a mail.
 
