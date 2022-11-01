@@ -16,7 +16,9 @@ semantic relationships between text units (e.g. by embedding the text units in a
 
 My [PhD thesis](http://gdebasis.github.io/files/DGthesis.pdf) was on the topic of improving retrieval models based on the information utilised at the level of sub-documents, e.g., topics or passages. 
 
-My recent research interests include application of multi-objective neural networks for bias removal of classification systems. Check out our recent [AAAI paper on debiasing](https://aaai.org/ojs/index.php/AAAI/article/view/5654).  
+My recent research interests include application of multi-objective neural networks for bias removal of classification systems. Check out our recent [AAAI paper on debiasing](https://aaai.org/ojs/index.php/AAAI/article/view/5654) and its follow up [CIKM'21 paper Multi-objective Few-shot Learning for Fair Classification](https://doi.org/10.1145/3459637.3482146).
+
+Recently, I'm interested in investigating trustworthiness as an additional dimension of effectiveness of IR models; check out our recent CIKM'22 paper [Measuring and Comparing the Consistency of IR Models for Query Pairs with Similar and Different Information Needs](https://doi.org/10.1145/3511808.3557637).    
 
 At IBM, my primary research project involved working towards an AI solution that will be able to make predictions about the likelihood of the success of a study (i.e. how likely it is that a given user group with certain characteristics with a set of registered interventions) is likely to change their behaviour.
 
