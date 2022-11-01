@@ -12,13 +12,13 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 ## Current PhD students
 
 ### Andrew Parry
-<img src="images/andrew.jpeg" width="60">
+<img src="https://gdebasis.github.io/images/andrew.jpeg" width="60">
 
 Andrew Parry is my current PhD student at the University of Glasgow. Andrew's PhD topic involves investigation of **adversarial learning** for neural models.
 
 ### Manish Chandra
 
-<img src="manish.jpeg" width="60">
+<img src="https://gdebasis.github.io/images/manish.jpeg" width="60">
 
 [Manish Chandra](https://scholar.google.co.in/citations?user=W2JbsRQAAAAJ&hl=en) is my current student who's doing a PhD (part-time) at the University of Glasgow. Manish's PhD topic involves investigation of **explanation methodologies** and their **quantitative evaluation**. He completed his post-graduation from [IIT-KGP](http://www.iitkgp.ac.in/) in 2021.
 
@@ -40,6 +40,7 @@ Andrew Parry is my current PhD student at the University of Glasgow. Andrew's Ph
 
 ## Past PhD/mentored students
 
+<img src="https://gdebasis.github.io/images/doi.jpeg" width="60">
 [Dwaipayan Roy](https://scholar.google.com/citations?user=zmc1M2UAAAAJ&hl=en&oi=ao) graduated out of the [Indian Statistical Institute](https://www.isical.ac.in/) with his PhD degree in 2019. He was the first PhD student of mine (co-supervised by [Mandar Mitra](https://www.isical.ac.in/~mandar/)). His PhD investigated the use of embedded word representations for the purpose of improving retrieval effectiveness.
 
 ### Procheta Sen
