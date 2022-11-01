@@ -41,7 +41,8 @@ Andrew Parry is my current PhD student at the University of Glasgow. Andrew's Ph
 ## Past PhD/mentored students
 
 <img src="https://gdebasis.github.io/images/doi.jpeg" width="60">
-[Dwaipayan Roy](https://scholar.google.com/citations?user=zmc1M2UAAAAJ&hl=en&oi=ao) graduated out of the [Indian Statistical Institute](https://www.isical.ac.in/) with his PhD degree in 2019. He was the first PhD student of mine (co-supervised by [Mandar Mitra](https://www.isical.ac.in/~mandar/)). His PhD investigated the use of embedded word representations for the purpose of improving retrieval effectiveness.
+
+[Dwaipayan Roy](https://www.iiserkol.ac.in/web/en/people/faculty/cds/dwaipayan-roy/#gsc.tab=0) is an Asst. Professor in the Indian Institute Of Sscience Education and Research, Kolkata. He graduated out of the [Indian Statistical Institute](https://www.isical.ac.in/) with his PhD degree in 2019. He was the first PhD student of mine (co-supervised by [Mandar Mitra](https://www.isical.ac.in/~mandar/)). His PhD investigated the use of embedded word representations for the purpose of improving retrieval effectiveness.
 
 ### Procheta Sen
 
