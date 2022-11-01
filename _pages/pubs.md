@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Publications"
 permalink: /pubs/
 author_profile: true
@@ -6,23 +7,33 @@ author_profile: true
 
 ### Conferences
 
-* Suchana Datta, **Debasis Ganguly**, Mandar Mitra and Derek Greene Mondal, An Analysis of Variations in the Effectiveness of Query Performance Prediction, ECIR'22 (to appear) [(pre-print)](http://gdebasis.github.io/files/QPP-ECIR.pdf).
-* Suchana Datta, **Debasis Ganguly**, Mandar Mitra and Derek Greene Mondal, Deep-QPP: A Pairwise Interaction-based Deep Learning Model for Supervised Query Performance Prediction, WSDM'22 (to appear) [(pre-print)](http://gdebasis.github.io/files/supqpp.pdf).
-* Ishani Mondal and **Debasis Ganguly**, ALEX: Active Learning based Enhancement of a Model’s EXplainability, CIKM'20, pp:3309-3312.
-[(Paper pre-print)](https://arxiv.org/abs/2009.00859) 
-* Anirban Chakraborty, **Debasis Ganguly** and Owen Conlan, Retrievability based Document Selection for Relevance
-Feedback with Automatically Generated Query Variants, CIKM'20, pp:125-134.
-[(Paper)](http://gdebasis.github.io/files/rlmqv.pdf) 
-* Anirban Chakraborty, **Debasis Ganguly** and Owen Conlan, Relevance Models for Multi-Contextual Appropriateness in
-Point-of-Interest Recommendation, Proc. of SIGIR'20, pp:1981-1984.
-[(Video presentation)](https://youtu.be/r0zXalxyML0) 
-[(Paper pre-print)](http://gdebasis.github.io/files/POI.pdf) 
-* Procheta Sen, **Debasis Ganguly**, Manisha Verma and Gareth J.F. Jones, The Curious Case of IR Explainability: Explaining Document Scores within and across Ranking Models, Proc. of SIGIR'20, pp:2069-2072 [(Video presentation)](https://youtu.be/OYJhZuj45hc)
-[(Paper pre-print)](http://gdebasis.github.io/files/RegressionBasedExplanation.pdf) 
-* Suchana Datta, **Debasis Ganguly**, Dwaipayan Roy, Francesca Bonnin, Charles Jochim and Mandar Mitra, Retrieving Potential Causes from a Query Event, Proc. of SIGIR'20 (pp:1689-1692) [(Video presentation)](https://youtu.be/umUd-hEdaNg)
-[(Paper pre-print)](http://gdebasis.github.io/files/CausalIR_SIGIR_2020.pdf) 
+* Procheta Sen and Sourav Saha and **Debasis Ganguly** and Manisha Verma and Dwaipayan Roy, Measuring and Comparing the Consistency of IR Models for Query Pairs with Similar and Different Information Needs, CIKM, pages 4449--4453, 2022
+* Gareth J. F. Jones and Procheta Sen and **Debasis Ganguly** and Emine Yilmaz, Workshop on Proactive and Agent-Supported Information Retrieval (PASIR), CIKM, pages 5167--5168, 2022
+* Suchana Datta and **Debasis Ganguly** and Mandar Mitra and Derek Greene, On the Reproduciblity and Robustness of Query Performance Prediction Experiments - An Extended Abstract, CIRCLE, series CEUR Workshop Proceedings, 2022
+* Sonal Mishra and Procheta Sen and **Debasis Ganguly** and Prasenjit Majumder, Relevance Model Augmented with Inter-Collection Co-occurrence Statistics for Ad-hoc Retrieval in Precision Medicine, CIRCLE, series CEUR Workshop Proceedings, 2022
+* **Debasis Ganguly** and Suchana Datta and Mandar Mitra and Derek Greene, An Analysis of Variations in the Effectiveness of Query Performance Prediction, ECIR (1), series Lecture Notes in Computer Science, 2022
+* Suchana Datta and Sean MacAvaney and **Debasis Ganguly** and Derek Greene, A Pointwise-Query, Listwise-Document based Query Performance Prediction Approach, SIGIR, 2022
+* Suchana Datta and **Debasis Ganguly** and Derek Greene and Mandar Mitra, Deep-QPP: A Pairwise Interaction-based Deep Learning Model for Supervised Query Performance Prediction, WSDM, pages 201--209, 2022
+* Ishani Mondal and Procheta Sen and **Debasis Ganguly**, Multi-objective Few-shot Learning for Fair Classification, CIKM, pages 3338--3342, 2021
+* Yufang Hou and Charles Jochim and Martin Gleize and Francesca Bonin and **Debasis Ganguly**, TDMSci: A Specialized Corpus for Scientific Literature Entity Tagging of Tasks Datasets and Metrics, EACL, pages 707--714, 2021
+* Suchana Datta and **Debasis Ganguly** and Dwaipayan Roy and Derek Greene, Overview of the Causality-driven Adhoc Information Retrieval (CAIR) task at FIRE-2021, FIRE, pages 25--27, 2021
+* Chandan Biswas and **Debasis Ganguly** and Ujjwal Bhattacharya, Approximate Nearest Neighbour Search on Privacy-aware Encoding of User Locations to Identify Susceptible Infections in Simulated Epidemics, FIRE, pages 35--42, 2021
+* Suchana Datta and **Debasis Ganguly** and Dwaipayan Roy and Derek Greene, Overview of the Causality-driven Adhoc Information Retrieval (CAIR) task at FIRE-2021, FIRE (Working Notes), series CEUR Workshop Proceedings, 2021
+* **Debasis Ganguly**, Session details: Session 4A - Question Answering, ICTIR, publisher ACM, 2021
+* Dipasree Pal and **Debasis Ganguly**, Effective Query Formulation in Conversation Contextualization: A Query Specificity-based Approach, ICTIR, pages 177--183, 2021
+* Manish Chandra and **Debasis Ganguly** and Pabitra Mitra and Bithika Pal and James Thomas, NIP-GCN: An Augmented Graph Convolutional Network with Node Interaction Patterns, SIGIR, pages 2242--2246, 2021
+* **Debasis Ganguly** and Manisha Verma and Procheta Sen and Dipasree Pal and Gareth J. F. Jones, Overview of the Supporting and Understanding of Conversational Dialogues (SUD) Workshop, WSDM, pages 1163--1164, 2021
 * Procheta Sen and **Debasis Ganguly**, Towards Socially Responsible AI: Cognitive Bias-Aware Multi-Objective Learning, AAAI, pages 2685--2692, 2020
+* Suchana Datta and Derek Greene and **Debasis Ganguly** and Dwaipayan Roy and Mandar Mitra, Wheres the Why? In Search of Chains of Causes for Query Events, AICS, series CEUR Workshop Proceedings, 2020
+* Francesca Bonin and Martin Gleize and Yufang Hou and **Debasis Ganguly** and Ailbhe Finnerty and Charles Jochim and Alessandra Pascale and Pierpaolo Tommasi and Pol Mac Aonghusa and Susan Michie, Knowledge Extraction and Prediction from Behavior Science Randomized Controlled Trials: A Case Study in Smoking Cessation, AMIA, publisher AMIA, 2020
+* Anirban Chakraborty and **Debasis Ganguly** and Owen Conlan, Retrievability based Document Selection for Relevance Feedback with Automatically Generated Query Variants, CIKM, pages 125--134, 2020
+* Ishani Mondal and **Debasis Ganguly**, ALEX: Active Learning based Enhancement of a Classification Models EXplainability, CIKM, pages 3309--3312, 2020
+* Suchana Datta and **Debasis Ganguly** and Dwaipayan Roy and Derek Greene and Charles Jochim and Francesca Bonin, Overview of the Causality-driven Adhoc Information Retrieval (CAIR) task at FIRE-2020, FIRE, pages 14--17, 2020
+* **Debasis Ganguly** and Dipasree Pal and Manisha Verma and Procheta Sen, Overview of RCD-2020, the FIRE-2020 track on Retrieval from Conversational Dialogues, FIRE, 2020
 * Francesca Bonin and Martin Gleize and Ailbhe Finnerty and Candice Moore and Charles Jochim and Emma Norris and Yufang Hou and Alison J. Wright and **Debasis Ganguly** and Emily Hayes and Silje Zink and Alessandra Pascale and Pol Mac Aonghusa and Susan Michie, HBCP Corpus: A New Resource for the Analysis of Behavioural Change Intervention Reports, LREC, pages 1967--1975, 2020
+* Suchana Datta and **Debasis Ganguly** and Dwaipayan Roy and Francesca Bonin and Charles Jochim and Mandar Mitra, Retrieving Potential Causes from a Query Event, SIGIR, pages 1689--1692, 2020
+* Anirban Chakraborty and **Debasis Ganguly** and Owen Conlan, Relevance Models for Multi-Contextual Appropriateness in Point-of-Interest Recommendation, SIGIR, pages 1981--1984, 2020
+* Procheta Sen and **Debasis Ganguly** and Manisha Verma and Gareth J. F. Jones, The Curious Case of IR Explainability: Explaining Document Scores within and across Ranking Models, SIGIR, pages 2069--2072, 2020
 * Yufang Hou and Charles Jochim and Martin Gleize and Francesca Bonin and **Debasis Ganguly**, Identification of Tasks, Datasets, Evaluation Metrics, 2019
 * Chandan Biswas and **Debasis Ganguly** and Dwaipayan Roy and Ujjwal Bhattacharya, Privacy Preserving Approximate K-means Clustering, CIKM, pages 1321--1330, 2019
 * Dwaipayan Roy and Sourav Saha and Mandar Mitra and Bihan Sen and **Debasis Ganguly**, I-REX: A Lucene Plugin for EXplainable IR, CIKM, pages 2949--2952, 2019
@@ -69,6 +80,7 @@ Point-of-Interest Recommendation, Proc. of SIGIR'20, pp:1981-1984.
 * **Debasis Ganguly** and Johannes Leveling and Gareth J. F. Jones, DCU@INEX-2012: Exploring Sentence Retrieval for Tweet Contextualization, CLEF (Online Working Notes/Labs/Workshop), series CEUR Workshop Proceedings, 2012
 * **Debasis Ganguly** and Johannes Leveling and Gareth J. F. Jones, Cross-Lingual Topical Relevance Models, COLING, pages 927--942, 2012
 * Johannes Leveling and **Debasis Ganguly** and Sandipan Dandapat and Gareth J. F. Jones, Approximate Sentence Retrieval for Scalable and Efficient Example-Based Machine Translation, COLING, pages 1571--1586, 2012
+* **Debasis Ganguly** and Johannes Leveling and Gareth J. F. Jones, United we fall, divided we stand: a study of query segmentation and prf for patent prior art search, PaIR@CIKM, 2011
 * **Debasis Ganguly** and Johannes Leveling and Gareth J. F. Jones, Utilizing sub-topical structure of documents for information retrieval, PIKM@CIKM, pages 75--78, 2011
 * **Debasis Ganguly** and Johannes Leveling and Walid Magdy and Gareth J. F. Jones, Patent query reduction using pseudo relevance feedback, CIKM, pages 1953--1956, 2011
 * **Debasis Ganguly** and Johannes Leveling and Gareth J. F. Jones, Simulation of Within-Session Query Variations Using a Text Segmentation Approach, CLEF, series Lecture Notes in Computer Science, 2011
@@ -84,9 +96,21 @@ Point-of-Interest Recommendation, Proc. of SIGIR'20, pp:1981-1984.
 
 ### Journals
 
+* Anirban Chakraborty and **Debasis Ganguly** and Annalina Caputo and Gareth J. F. Jones, Kernel density estimation based factored relevance model for multi-contextual point-of-interest recommendation, Inf. Retr. J., volume 25, 2022
+* Chandan Biswas and **Debasis Ganguly** and Partha Sarathi Mukherjee and Ujjwal Bhattacharya and Yufang Hou, Privacy-aware supervised classification: An informative subspace based multi-objective approach, Pattern Recognit., volume 122, 2022
+* Procheta Sen and **Debasis Ganguly** and Gareth J. F. Jones, I Know What You Need: Investigating Document Retrieval Effectiveness with Partial Session Contexts, ACM Trans. Inf. Syst., volume 40, 2022
+* **Debasis Ganguly** and Suchana Datta and Mandar Mitra and Derek Greene, An Analysis of Variations in the Effectiveness of Query Performance Prediction, CoRR, volume abs/2202.06306, 2022
+* Suchana Datta and **Debasis Ganguly** and Derek Greene and Mandar Mitra, Deep-QPP: A Pairwise Interaction-based Deep Learning Model for Supervised Query Performance Prediction, CoRR, volume abs/2202.07376, 2022
+* Swarup Chattopadhyay and **Debasis Ganguly**, Node2vec with weak supervision on community structures, Pattern Recognit. Lett., volume 150, 2021
+* **Debasis Ganguly** and Gareth J. F. Jones and Procheta Sen and Manisha Verma and Dipasree Pal, Report on supporting and understanding of conversational dialogues workshop (SUD 2021) at WSDM 2021, SIGIR Forum, volume 55, 2021
+* Yufang Hou and Charles Jochim and Martin Gleize and Francesca Bonin and **Debasis Ganguly**, TDMSci: A Specialized Corpus for Scientific Literature Entity Tagging of Tasks Datasets and Metrics, CoRR, volume abs/2101.10273, 2021
+* Ishani Mondal and Procheta Sen and **Debasis Ganguly**, Multi-Objective Few-shot Learning for Fair Classification, CoRR, volume abs/2110.01951, 2021
 * **Debasis Ganguly**, Learning variable-length representation of words, Pattern Recognit., volume 103, 2020
 * Chandan Biswas and **Debasis Ganguly**, InfecTracer: Approximate Nearest Neighbors Retrieval of GPS Location Traces to Retrieve Susceptible Cases, CoRR, volume abs/2004.08851, 2020
 * Procheta Sen and **Debasis Ganguly**, Towards Socially Responsible AI: Cognitive Bias-Aware Multi-Objective Learning, CoRR, volume abs/2005.06618, 2020
+* Swarup Chattopadhyay and **Debasis Ganguly**, Community Structure aware Embedding of Nodes in a Network, CoRR, volume abs/2006.15313, 2020
+* Anirban Chakraborty and **Debasis Ganguly** and Annalina Caputo and Gareth J. F. Jones, Kernel Density Estimation based Factored Relevance Model for Multi-Contextual Point-of-Interest Recommendation, CoRR, volume abs/2006.15679, 2020
+* Ishani Mondal and **Debasis Ganguly**, ALEX: Active Learning based Enhancement of a Models Explainability, CoRR, volume abs/2009.00859, 2020
 * Dwaipayan Roy and **Debasis Ganguly** and Mandar Mitra and Gareth J. F. Jones, Estimating Gaussian mixture models in the local neighbourhood of embedded word vectors for query performance prediction, Inf. Process. Manag., volume 56, 2019
 * Yufang Hou and **Debasis Ganguly** and Lea A. Deleris and Francesca Bonin, Extracting Factual Min/Max Age Information from Clinical Trial Studies, CoRR, volume abs/1904.03262, 2019
 * Yufang Hou and Charles Jochim and Martin Gleize and Francesca Bonin and **Debasis Ganguly**, Identification of Tasks, Datasets, Evaluation Metrics, 2019
@@ -94,7 +118,7 @@ Point-of-Interest Recommendation, Proc. of SIGIR'20, pp:1981-1984.
 * **Debasis Ganguly** and Gareth J. F. Jones, A non-parametric topical relevance model, Inf. Retr. J., volume 21, 2018
 * Saptarshi Ghosh and Kripabandhu Ghosh and **Debasis Ganguly** and Tanmoy Chakraborty and Gareth J. F. Jones and Marie-Francine Moens and Muhammad Imran, Exploitation of Social Media for Emergency Relief and Preparedness: Recent Research and Trends, Inf. Syst. Frontiers, volume 20, 2018
 * Ayan Bandyopadhyay and **Debasis Ganguly** and Mandar Mitra and Sanjoy Kumar Saha and Gareth J. F. Jones, An Embedding Based IR Model for Disaster Situations, Inf. Syst. Frontiers, volume 20, 2018
-* Dwaipayan Roy and Mandar Mitra and **Debasis Ganguly**, To Clean or Not to Clean: Document Preprocessing and Reproducibility, J. Data and Information Quality, volume 10, 2018
+* Dwaipayan Roy and Mandar Mitra and **Debasis Ganguly**, To Clean or Not to Clean: Document Preprocessing and Reproducibility, ACM J. Data Inf. Qual., volume 10, 2018
 * **Debasis Ganguly**, A Fast Partitional Clustering Algorithm based on Nearest Neighbours Heuristics, Pattern Recognit. Lett., volume 112, 2018
 * Saptarshi Ghosh and Kripabandhu Ghosh and **Debasis Ganguly** and Tanmoy Chakraborty and Gareth J. F. Jones and Marie-Francine Moens, Report on the Second Workshop on Exploitation of Social Media for Emergency Relief and Preparedness (SMERP 2018) at the Web Conference (WWW) 2018, SIGIR Forum, volume 52, 2018
 * Saptarshi Ghosh and Kripabandhu Ghosh and **Debasis Ganguly** and Tanmoy Chakraborty and Gareth J. F. Jones and Marie-Francine Moens, ECIR 2017 Workshop on Exploitation of Social Media for Emergency Relief and Preparedness (SMERP 2017), SIGIR Forum, volume 51, 2017

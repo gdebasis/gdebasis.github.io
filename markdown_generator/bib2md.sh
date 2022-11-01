@@ -24,4 +24,5 @@ cat confs_pp.tmp |sed 's/{//g' | sed 's/}//g'|awk -F ',' '{if (NF>0) {print \$1 
 EOF1
 
 sh bib2md.tmp
+rm *tmp
 

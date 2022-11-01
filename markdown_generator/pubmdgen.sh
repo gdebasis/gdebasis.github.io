@@ -1,6 +1,12 @@
 #!/bin/bash
 
-./bib2md.sh Ganguly_Debasis.bib "Debasis Ganguly"
+if [ $# -lt 1 ]
+then
+        echo "Usage: $0 <.bib file>"
+        exit
+fi
+
+./bib2md.sh $1 "Debasis Ganguly"
 
 PUBFILE=../_pages/pubs.md
 
@@ -25,5 +31,4 @@ cat journals.md >> $PUBFILE
 
 rm confs.md
 rm journals.md
-rm *tmp
 
