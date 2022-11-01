@@ -47,13 +47,13 @@ Andrew Parry is my current PhD student at the University of Glasgow. Andrew's Ph
 
 <img src="https://gdebasis.github.io/images/procheta.jpg" width="60">
 
-[Procheta Sen](https://procheta.github.io/sprocheta/index.html) is now a lecturer in the University of Liverpool. I mentored her research durong her PhD studies at the [School of Computing, Dublin City University](https://www.computing.dcu.ie/), Dublin, Ireland. Her PhD supervisor was [Gareth J.F. Jones](https://www.computing.dcu.ie/~gjones/), who was also my PhD supervisor. In her PhD studies, she has investigated effective ways to model and evaluate **proactive information retrieval** (i.e. **zero-shot/few-shot** information retrieval). She is also interested in embedding algorithms and multi-objective neural learning.  
+[Procheta Sen](https://procheta.github.io/sprocheta/index.html) is a lecturer in the University of Liverpool. I mentored her research durong her PhD studies at the [School of Computing, Dublin City University](https://www.computing.dcu.ie/), Dublin, Ireland. Her PhD supervisor was [Gareth J.F. Jones](https://www.computing.dcu.ie/~gjones/), who was also my PhD supervisor. In her PhD studies, she has investigated effective ways to model and evaluate **proactive information retrieval** (i.e. **zero-shot/few-shot** information retrieval). She is also interested in embedding algorithms and multi-objective neural learning.  
 
 ### Anirban Chakraborty
 
 <img src="https://gdebasis.github.io/images/anirban.jpg" width="60">
 
-[Anirban Chakraborty](https://www.scss.tcd.ie/~achakrab/) was a PhD student at the [School of Computer Science, Trinity College Dublin](https://www.scss.tcd.ie/). His PhD topic includes investigating information retrieval (IR) based approaches for effective **points-of-interest (POI) recommendation**. I menotored him during his PhD studies.
+[Anirban Chakraborty](https://www.scss.tcd.ie/~achakrab/) is a postdoctoral researcher in Edinburgh University. He was a PhD student at the [School of Computer Science, Trinity College Dublin](https://www.scss.tcd.ie/). His PhD topic includes investigating information retrieval (IR) based approaches for effective **points-of-interest (POI) recommendation**. I menotored him during his PhD studies.
 
 ### Swarup Chattopadhyay
 
