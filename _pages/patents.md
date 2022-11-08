@@ -13,7 +13,7 @@ All my publications could be found at my [DBLP page](https://dblp.org/pers/hd/g/
 
 ### Patents -->
 
-* Discrete Representation Learning [pdf](https://patentimages.storage.googleapis.com/85/2b/0c/8e2cf8418bc833/US20220043859A1.pdf)
+* Discrete Representation Learning [[pdf]](https://patentimages.storage.googleapis.com/85/2b/0c/8e2cf8418bc833/US20220043859A1.pdf)
 * Intelligent application library management [pdf](https://patentimages.storage.googleapis.com/58/0d/56/505ed8cd72184d/US20210374558A1.pdf)
 * Methods and systems for semantic analysis of table content [pdf](https://patentimages.storage.googleapis.com/37/e5/ac/bfc589342a08f1/US20210073335A1.pdf)
 * Providing causality augmented information responses in a computing environment [pdf](https://patentimages.storage.googleapis.com/64/0f/d3/a7a2894acea6d1/US11328019.pdf)
