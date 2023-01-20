@@ -14,7 +14,7 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 ### Andrew Parry
 <img src="https://gdebasis.github.io/images/andrew.jpeg" width="60">
 
-Andrew Parry is my current PhD student at the University of Glasgow. Andrew's PhD topic involves investigation of **adversarial learning** for neural models.
+[Andrew Parry](https://www.linkedin.com/in/andrew-parry-0b60611b9/?originalSubdomain=uk) is my current PhD student at the University of Glasgow. Andrew's PhD topic involves investigation of **adversarial learning** for neural models.
 
 ### Manish Chandra
 
