@@ -7,6 +7,8 @@ redirect_from:
   - /mentoring.html
 ---
 
+# Mentoring
+
 Proud to mentor a number of PhD students, each possessing an inquisitive mind seeking to find solutions to challenging research questions. A number of my recent research papers features these bright young minds as my co-authors.
 
 ## Current PhD students
@@ -65,5 +67,18 @@ Andrew Parry is my current PhD student at the University of Glasgow. Andrew's Ph
 
 [Swarup Chattopadhay](https://scholar.google.co.in/citations?hl=en&user=7PI1amoAAAAJ) was a PhD student at the [Indian Statistical Institute](https://www.isical.ac.in/). With Swarup, I'm investigating faster and more effective solutions of standard **graph optimization** problems, such as clique, coloring, community funding etc. using **embedded representations of graph nodes**.
 
+# Collaborators
+
+Here's a list of researchers from other universities that I'm fortunate to actively collaborate with.
+
+- [Pabitra Mitra](http://www.iitkgp.ac.in/department/CS/faculty/cs-pabitra), IIT-KGP, India
+- [Mandar Mitra](https://www.isical.ac.in/mandar-mitra), ISI Kolkata, India
+- [Prasenjit Majumder](https://www.tcgcrest.org/people/prof-prasenjit-majumder/), TCG Crest/DAIICT, India
+- [Gareth J.F. Jones](https://computing.dcu.ie/~gjones/), Dublin City University, Ireland
+- [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/), UCL, England
+- [Sudip Kumar Naskar](http://www.jaduniv.edu.in/profile.php?uid=1022), JU, India
+- [Partha Basuchoudhury](http://iacs.res.in/faculty-profile.html?id=147), IACS, India
+- [Tulika Saha](https://www.liverpool.ac.uk/computer-science/staff/), University of Liverpool, England
+  
 
 
