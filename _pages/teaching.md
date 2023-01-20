@@ -8,6 +8,8 @@ author_profile: true
 
 ### Convertor from .bib to .md
 
+This is a handy tool for the reseachers for updating their publications list on their home pages. I wrote a script which simply takes a recent .bib file of your publications (e.g., the one you would typically export from your DBLP page), and then converts it to a .md file.
+
 You don't need to install anything. All you need to have is a bash shell on Linux/MAC OSX or [Cygwin](https://www.cygwin.com/) on Windows.
 
 Simply download the [script](https://github.com/gdebasis/gdebasis.github.io/blob/master/markdown_generator/bib2md.sh) and invoke it with
