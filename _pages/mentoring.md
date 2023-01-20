@@ -23,12 +23,6 @@ Andrew Parry is my current PhD student at the University of Glasgow. Andrew's Ph
 [Manish Chandra](https://scholar.google.co.in/citations?user=W2JbsRQAAAAJ&hl=en) is my current student who's doing a PhD (part-time) at the University of Glasgow. Manish's PhD topic involves investigation of **explanation methodologies** and their **quantitative evaluation**. He completed his post-graduation from [IIT-KGP](http://www.iitkgp.ac.in/) in 2021.
 
 
-### Chandan Biswas
-
-<img src="https://gdebasis.github.io/images/chandan.jpg" width="60">
-
-[Chandan Biswas](https://scholar.google.co.in/citations?user=W2JbsRQAAAAJ&hl=en) is a PhD student of mine registered at the [Indian Statistical Institute](https://www.isical.ac.in/). I co-supervise his PhD along with [Ujjwal Bhattacharya](https://www.isical.ac.in/~ujjwal/). Chandan's work investigates how to develop both unsupervised and supervised **learning models under privacy preservation constraints** (specifically useful in a distributed computing environment in an untrusted network).
-
 ### Suchana Dutta
 
 <img src="https://gdebasis.github.io/images/suchana.jpg" width="60">
@@ -39,6 +33,13 @@ Andrew Parry is my current PhD student at the University of Glasgow. Andrew's Ph
 ## Mentored students
 
 ## Past PhD/mentored students
+
+### Chandan Biswas
+
+<img src="https://gdebasis.github.io/images/chandan.jpg" width="60">
+
+[Chandan Biswas](https://scholar.google.co.in/citations?user=W2JbsRQAAAAJ&hl=en) is a PhD student of mine registered at the [Indian Statistical Institute](https://www.isical.ac.in/). I co-supervise his PhD along with [Ujjwal Bhattacharya](https://www.isical.ac.in/~ujjwal/). Chandan's work investigates how to develop both unsupervised and supervised **learning models under privacy preservation constraints** (specifically useful in a distributed computing environment in an untrusted network).
+
 
 <img src="https://gdebasis.github.io/images/doi.jpeg" width="60">
 
