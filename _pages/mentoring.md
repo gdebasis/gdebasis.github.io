@@ -34,6 +34,8 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 
 ### Madhusudan Ghosh
 
+<img src="https://gdebasis.github.io/images/madhu.jpeg" width="60">
+
 [Madhusudan Ghosh](https://www.linkedin.com/in/madhusudan-ghosh-217672124/) is a PhD student registered at the Indian Association of the Cultivation of Sciences (IACS) supervised by [Sudip Naskar](http://www.jaduniv.edu.in/profile.php?uid=1022) and [Partha Basuchoudhury](http://iacs.res.in/faculty-profile.html?id=147). His PhD topic is related to knowledge base construction from scientific articles.
 
 ## Past PhD/mentored students
