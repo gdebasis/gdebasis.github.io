@@ -27,10 +27,14 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 
 <img src="https://gdebasis.github.io/images/suchana.jpg" width="60">
 
-[Suchana Dutta ](https://www.linkedin.com/in/suchana-datta-94ba942b/) is a PhD student at University College, Dublin (UCD). Her primary supervisor from UCD is [Derek Greene](http://derekgreene.com/).  With her I'm pursuing novel search interfaces and algorithms towards addressing causality driven search, i.e. where a search user wants to find out documents answering the *Why* question, e.g. *why was Osama bin Laden assassinated?* etc. 
+[Suchana Dutta](https://www.linkedin.com/in/suchana-datta-94ba942b/) is a PhD student at University College, Dublin (UCD). Her primary supervisor from UCD is [Derek Greene](http://derekgreene.com/).  With her I'm pursuing novel search interfaces and algorithms towards addressing causality driven search, i.e. where a search user wants to find out documents answering the *Why* question, e.g. *why was Osama bin Laden assassinated?* etc. 
 
 
 ## Mentored students
+
+### Madhusudan Ghosh
+
+[Madhusudan Ghosh](https://www.linkedin.com/in/madhusudan-ghosh-217672124/) is a PhD student registered at the Indian Association of the Cultivation of Sciences (IACS) supervised by [Sudip Naskar](http://www.jaduniv.edu.in/profile.php?uid=1022) and [Partha Basuchoudhury](http://iacs.res.in/faculty-profile.html?id=147). His PhD topic is related to knowledge base construction from scientific articles.
 
 ## Past PhD/mentored students
 
