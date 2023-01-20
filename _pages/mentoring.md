@@ -7,8 +7,6 @@ redirect_from:
   - /mentoring.html
 ---
 
-# Mentoring
-
 Proud to mentor a number of PhD students, each possessing an inquisitive mind seeking to find solutions to challenging research questions. A number of my recent research papers features these bright young minds as my co-authors.
 
 ## Current PhD students
