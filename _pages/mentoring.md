@@ -44,11 +44,13 @@ Andrew Parry is my current PhD student at the University of Glasgow. Andrew's Ph
 
 [Dwaipayan Roy](https://www.iiserkol.ac.in/web/en/people/faculty/cds/dwaipayan-roy/#gsc.tab=0) is an Asst. Professor in the Indian Institute Of Sscience Education and Research, Kolkata. He graduated out of the [Indian Statistical Institute](https://www.isical.ac.in/) with his PhD degree in 2019. He was the first PhD student of mine (co-supervised by [Mandar Mitra](https://www.isical.ac.in/~mandar/)). His PhD investigated the use of embedded word representations for the purpose of improving retrieval effectiveness.
 
-### Procheta Sen
+<!-- ### Procheta Sen
 
 <img src="https://gdebasis.github.io/images/procheta.jpg" width="60">
 
-[Procheta Sen](https://procheta.github.io/sprocheta/index.html) is a lecturer in the University of Liverpool. I mentored her research durong her PhD studies at the [School of Computing, Dublin City University](https://www.computing.dcu.ie/), Dublin, Ireland. Her PhD supervisor was [Gareth J.F. Jones](https://www.computing.dcu.ie/~gjones/), who was also my PhD supervisor. In her PhD studies, she has investigated effective ways to model and evaluate **proactive information retrieval** (i.e. **zero-shot/few-shot** information retrieval). She is also interested in embedding algorithms and multi-objective neural learning.  
+[Procheta Sen](https://procheta.github.io/sprocheta/index.html) is a lecturer in the University of Liverpool. I mentored her research durong her PhD studies at the [School of Computing, Dublin City University](https://www.computing.dcu.ie/), Dublin, Ireland. Her PhD supervisor was [Gareth J.F. Jones](https://www.computing.dcu.ie/~gjones/), who was also my PhD supervisor. In her PhD studies, she has investigated effective ways to model and evaluate **proactive information retrieval** (i.e. **zero-shot/few-shot** information retrieval). She is also interested in embedding algorithms and multi-objective neural learning.
+
+-->
 
 ### Anirban Chakraborty
 
