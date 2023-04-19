@@ -7,6 +7,9 @@ author_profile: true
 
 ### Conferences
 
+* **Debasis Ganguly**, Andrew Parker, Stergious Aji: Automatic Videography Generation from Audio Tracks. ECIR (3) 2023: 281-287
+* **Debasis Ganguly**, Jack G. Conrad, Kripabandhu Ghosh, Saptarshi Ghosh, Pawan Goyal, Paheli Bhattacharya, Shubham Kumar Nigam, Shounak Paul:
+Legal IR and NLP: The History, Challenges, and State-of-the-Art. ECIR (3) 2023: 331-340
 * Procheta Sen and Sourav Saha and **Debasis Ganguly** and Manisha Verma and Dwaipayan Roy, Measuring and Comparing the Consistency of IR Models for Query Pairs with Similar and Different Information Needs, CIKM, pages 4449--4453, 2022
 * Gareth J. F. Jones and Procheta Sen and **Debasis Ganguly** and Emine Yilmaz, Workshop on Proactive and Agent-Supported Information Retrieval (PASIR), CIKM, pages 5167--5168, 2022
 * Suchana Datta and **Debasis Ganguly** and Mandar Mitra and Derek Greene, On the Reproduciblity and Robustness of Query Performance Prediction Experiments - An Extended Abstract, CIRCLE, series CEUR Workshop Proceedings, 2022
@@ -95,7 +98,7 @@ author_profile: true
 * Sukomal Pal and Mandar Mitra and **Debasis Ganguly** and Samaresh Maiti and Ayan Bandyopadhyay and Aparajita Sen and Sukanya Mitra, Indian Statistical Institute at INEX 2008 Adhoc Track, INEX, series Lecture Notes in Computer Science, 2008
 
 ### Journals
-
+* Chandan Biswas, **Debasis Ganguly**, Dwaipayan Roy, Ujjwal Bhattacharya: Weakly supervised deep metric learning on discrete metric spaces for privacy-preserved clustering. Inf. Process. Manag. 60(1): 103109 (2023).
 * Anirban Chakraborty and **Debasis Ganguly** and Annalina Caputo and Gareth J. F. Jones, Kernel density estimation based factored relevance model for multi-contextual point-of-interest recommendation, Inf. Retr. J., volume 25, 2022
 * Chandan Biswas and **Debasis Ganguly** and Partha Sarathi Mukherjee and Ujjwal Bhattacharya and Yufang Hou, Privacy-aware supervised classification: An informative subspace based multi-objective approach, Pattern Recognit., volume 122, 2022
 * Procheta Sen and **Debasis Ganguly** and Gareth J. F. Jones, I Know What You Need: Investigating Document Retrieval Effectiveness with Partial Session Contexts, ACM Trans. Inf. Syst., volume 40, 2022

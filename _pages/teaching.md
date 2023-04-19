@@ -6,6 +6,10 @@ author_profile: true
 
 ## Software Resources
 
+### Latest demo software at [ECIR 2023](https://ecir2023.org/)
+
+The web-based demo of the paper 'Automatic Videography Generation from Audio Tracks' can be seen [here](https://automatic-videography.up.railway.app/) and the source can be found [here](https://github.com/StergiousAji/Automatic-Illustration-of-Text).
+
 ### Convertor from .bib to .md
 
 This is a handy tool for the reseachers for updating their publications list on their home pages. I wrote a script which simply takes a recent .bib file of your publications (e.g., the one you would typically export from your DBLP page), and then converts it to a .md file.
