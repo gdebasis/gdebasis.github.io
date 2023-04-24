@@ -7,9 +7,9 @@ author_profile: true
 
 ### Upcoming at [SIGIR 2023](https://sigir.org/sigir2023/)
 
-Unsupervised Query Performance Prediction for Neural Models with Pairwise Rank Preferences: Ashutosh Singh, **Debasis Ganguly**, Suchana Datta, and Craig McDonald (To appear in SIGIR'23) [preprint](https://gdebasis.github.io/files/duoqpp.pdf)
-Query-specific Variable Depth Pooling via Query Performance Prediction: **Debasis Ganguly** and Emine Yilmaz (To appear in SIGIR'23) [preprint](https://gdebasis.github.io/files/vardepth.pdf)
-Explain like I am BM25: Interpreting a Dense Model’s Ranked-List with a Sparse Approximation: Michael Llordes, **Debasis Ganguly**, Sumit Bhatia and Chirag Agarwal. [preprint](https://gdebasis.github.io/files/bfs.pdf)
+* Unsupervised Query Performance Prediction for Neural Models with Pairwise Rank Preferences: Ashutosh Singh, **Debasis Ganguly**, Suchana Datta, and Craig McDonald (To appear in SIGIR'23) [preprint](https://gdebasis.github.io/files/duoqpp.pdf)
+* Query-specific Variable Depth Pooling via Query Performance Prediction: **Debasis Ganguly** and Emine Yilmaz (To appear in SIGIR'23) [preprint](https://gdebasis.github.io/files/vardepth.pdf)
+* Explain like I am BM25: Interpreting a Dense Model’s Ranked-List with a Sparse Approximation: Michael Llordes, **Debasis Ganguly**, Sumit Bhatia and Chirag Agarwal. [preprint](https://gdebasis.github.io/files/bfs.pdf)
 
 ### Conferences
 
