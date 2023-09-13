@@ -28,7 +28,7 @@ sh bib2md Ganguly_Debasis.bib "Debasis Ganguly"
 ```
 
 ## Slides of Talks
-* Slides of the talk on Explainable AI, a guest lecture for the "Search Engines" course at the University of Padua [(slides)](http://gdebasis.github.io/files/xai.pdf).
+* Slides of the talk on Explainable AI, a guest lecture for the "Search Engines" course at the University of Padua. [Youtube stream](https://www.youtube.com/watch?v=gPnGoRSJHTM&ab_channel=IIIAHub) [(slides)](http://gdebasis.github.io/files/xai.pdf).
 * Slides of the talk on Query Performance Prediction (talk available on YouTube at this [link](https://www.youtube.com/watch?v=0KeAjdE2wEs)) [(slides)](http://gdebasis.github.io/files/qpp.pdf).
 
 

@@ -103,12 +103,12 @@ Legal IR and NLP: The History, Challenges, and State-of-the-Art. ECIR (3) 2023: 
 * Sukomal Pal and Mandar Mitra and **Debasis Ganguly** and Samaresh Maiti and Ayan Bandyopadhyay and Aparajita Sen and Sukanya Mitra, Indian Statistical Institute at INEX 2008 Adhoc Track, INEX, series Lecture Notes in Computer Science, 2008
 
 ### Journals
+* Suchana Datta, **Debasis Ganguly**, Mandar Mitra, Derek Greene: A Relative Information Gain-based Query Performance Prediction Framework with Generated Query Variants. ACM Trans. Inf. Syst. 41(2): 38:1-38:31 (2023) [Query variants with RLM](https://gdebasis.github.io/files/trecdl_qv_rlm.csv) [Query variants with W2V](https://gdebasis.github.io/files/trecdl_qv_w2v.csv)
 * Chandan Biswas, **Debasis Ganguly**, Dwaipayan Roy, Ujjwal Bhattacharya: Weakly supervised deep metric learning on discrete metric spaces for privacy-preserved clustering. Inf. Process. Manag. 60(1): 103109 (2023).
 * Anirban Chakraborty and **Debasis Ganguly** and Annalina Caputo and Gareth J. F. Jones, Kernel density estimation based factored relevance model for multi-contextual point-of-interest recommendation, Inf. Retr. J., volume 25, 2022
 * Chandan Biswas and **Debasis Ganguly** and Partha Sarathi Mukherjee and Ujjwal Bhattacharya and Yufang Hou, Privacy-aware supervised classification: An informative subspace based multi-objective approach, Pattern Recognit., volume 122, 2022
 * Procheta Sen and **Debasis Ganguly** and Gareth J. F. Jones, I Know What You Need: Investigating Document Retrieval Effectiveness with Partial Session Contexts, ACM Trans. Inf. Syst., volume 40, 2022
 * **Debasis Ganguly** and Suchana Datta and Mandar Mitra and Derek Greene, An Analysis of Variations in the Effectiveness of Query Performance Prediction, CoRR, volume abs/2202.06306, 2022
-* Suchana Datta and **Debasis Ganguly** and Derek Greene and Mandar Mitra, Deep-QPP: A Pairwise Interaction-based Deep Learning Model for Supervised Query Performance Prediction, CoRR, volume abs/2202.07376, 2022
 * Swarup Chattopadhyay and **Debasis Ganguly**, Node2vec with weak supervision on community structures, Pattern Recognit. Lett., volume 150, 2021
 * **Debasis Ganguly** and Gareth J. F. Jones and Procheta Sen and Manisha Verma and Dipasree Pal, Report on supporting and understanding of conversational dialogues workshop (SUD 2021) at WSDM 2021, SIGIR Forum, volume 55, 2021
 * Yufang Hou and Charles Jochim and Martin Gleize and Francesca Bonin and **Debasis Ganguly**, TDMSci: A Specialized Corpus for Scientific Literature Entity Tagging of Tasks Datasets and Metrics, CoRR, volume abs/2101.10273, 2021
