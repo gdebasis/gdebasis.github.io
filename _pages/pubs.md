@@ -4,9 +4,6 @@ permalink: /pubs/
 author_profile: true
 ---
 
-### Upcoming at [SIGIR 2023](https://sigir.org/sigir2023/)
-
-
 ### Conferences
 * Manish Chandra, **Debasis Ganguly**, Tulika Saha, Iadh Ounis:
 'Choose your Data Wisely': Active Learning based Selection with Multi-Objective Optimisation for Mitigating Stereotypes. CIKM 2023: 3768-3772
