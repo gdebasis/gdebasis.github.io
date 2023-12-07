@@ -6,12 +6,15 @@ author_profile: true
 
 ### Upcoming at [SIGIR 2023](https://sigir.org/sigir2023/)
 
+
+### Conferences
+* Manish Chandra, **Debasis Ganguly**, Tulika Saha, Iadh Ounis:
+'Choose your Data Wisely': Active Learning based Selection with Multi-Objective Optimisation for Mitigating Stereotypes. CIKM 2023: 3768-3772
+* Madhusudan Ghosh, **Debasis Ganguly**, Partha Basuchowdhuri, Sudip Kumar Naskar:
+Extracting Methodology Components from AI Research Papers: A Data-driven Factored Sequence Labeling Approach. CIKM 2023: 3897-3901
 * [Unsupervised Query Performance Prediction for Neural Models with Pairwise Rank Preferences](https://gdebasis.github.io/files/duoqpp.pdf): Ashutosh Singh, **Debasis Ganguly**, Suchana Datta, and Craig McDonald.
 * [Query-specific Variable Depth Pooling via Query Performance Prediction](https://gdebasis.github.io/files/vardepth.pdf): **Debasis Ganguly** and Emine Yilmaz.
 * [Explain like I am BM25: Interpreting a Dense Model’s Ranked-List with a Sparse Approximation](https://gdebasis.github.io/files/bfs.pdf): Michael Llordes, **Debasis Ganguly**, Sumit Bhatia and Chirag Agarwal.
-
-### Conferences
-
 * **Debasis Ganguly**, Andrew Parker, Stergious Aji: Automatic Videography Generation from Audio Tracks. ECIR (3) 2023: 281-287
 * **Debasis Ganguly**, Jack G. Conrad, Kripabandhu Ghosh, Saptarshi Ghosh, Pawan Goyal, Paheli Bhattacharya, Shubham Kumar Nigam, Shounak Paul:
 Legal IR and NLP: The History, Challenges, and State-of-the-Art. ECIR (3) 2023: 331-340
