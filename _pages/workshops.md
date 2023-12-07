@@ -8,7 +8,7 @@ redirect_from:
 
 ### Recent workshop organized
 
-* [LLMIT](https://gdebasis.github.io/llmit/)  Tulika Saha, Debasis Ganguly, Sriparna Saha, Prasenjit Mitra:
+* [LLMIT](https://gdebasis.github.io/llmit/) -- Tulika Saha, Debasis Ganguly, Sriparna Saha, Prasenjit Mitra:
 Workshop On Large Language Models' Interpretability and Trustworthiness (LLMIT).
 
 ### Past Shared Tasks
