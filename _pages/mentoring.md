@@ -81,14 +81,17 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 
 Here's a list of researchers from other universities that I'm fortunate to actively collaborate with.
 
-- [Pabitra Mitra](http://www.iitkgp.ac.in/department/CS/faculty/cs-pabitra), IIT-KGP, India
 - [Mandar Mitra](https://www.isical.ac.in/mandar-mitra), ISI Kolkata, India
+- [Prasenjit Mitra](https://scholar.google.com/citations?user=8PbgiPkAAAAJ&hl=en), Penn State University, USA
+- [Pabitra Mitra](http://www.iitkgp.ac.in/department/CS/faculty/cs-pabitra), IIT-KGP, India
 - [Prasenjit Majumder](https://www.tcgcrest.org/people/prof-prasenjit-majumder/), TCG Crest/DAIICT, India
 - [Gareth J.F. Jones](https://computing.dcu.ie/~gjones/), Dublin City University, Ireland
 - [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/), UCL, England
 - [Sudip Kumar Naskar](http://www.jaduniv.edu.in/profile.php?uid=1022), JU, India
 - [Partha Basuchoudhury](http://iacs.res.in/faculty-profile.html?id=147), IACS, India
 - [Tulika Saha](https://www.liverpool.ac.uk/computer-science/staff/), University of Liverpool, England
-  
-
+- [Sumit Bhatia](https://www.linkedin.com/in/sumitonlinkedin/?originalSubdomain=in), Adobe Research, India
+- [Srijoni Majumdar](https://www.linkedin.com/in/srijoni-majumdar-060a92120/), University of Leeds, England
+- [Xi Wang](https://www.sheffield.ac.uk/cs/people/academic/xi-wang), University of Sheffield, England
+- [Gul Calikli](https://www.gla.ac.uk/schools/computing/staff/handangulcalikli/), University of Glasgow, Scotland
 
