@@ -23,7 +23,7 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 [Manish Chandra](https://scholar.google.co.in/citations?user=W2JbsRQAAAAJ&hl=en) is my current student who's doing a PhD (part-time) at the University of Glasgow. Manish's PhD topic involves investigation of **explanation methodologies** and their **quantitative evaluation**. He completed his post-graduation from [IIT-KGP](http://www.iitkgp.ac.in/) in 2021.
 
 
-## Mentored students
+## Current PhD student mentees
 
 ### Payel Santra
 
