@@ -11,6 +11,17 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 
 ## Current PhD students
 
+### Fangzheng (Daneil) Tian
+
+[Fangzheng (Daniel) Tian](https://www.gla.ac.uk/schools/computing/staff/fangzhengtian/) is my current PhD student at the University of Glasgow. Daniel's PhD topic involves estimating the performance of retrieval-augmented generation (**RAG**) systems.
+
+
+### Susmita Das
+<img src="https://gdebasis.github.io/images/susmita.jpg" width="60">
+
+[Susmita Das](https://www.linkedin.com/in/susmita-das-a33369140/?originalSubdomain=uk) is my current PhD student at the University of Glasgow. Susmita's PhD topic involves investigation of software **code generation** with LLMs. 
+
+
 ### Andrew Parry
 <img src="https://gdebasis.github.io/images/andrew.jpeg" width="60">
 
