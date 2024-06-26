@@ -23,14 +23,14 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 [Manish Chandra](https://scholar.google.co.in/citations?user=W2JbsRQAAAAJ&hl=en) is my current student who's doing a PhD (part-time) at the University of Glasgow. Manish's PhD topic involves investigation of **explanation methodologies** and their **quantitative evaluation**. He completed his post-graduation from [IIT-KGP](http://www.iitkgp.ac.in/) in 2021.
 
 
-### Suchana Dutta
-
-<img src="https://gdebasis.github.io/images/suchana.jpg" width="60">
-
-[Suchana Dutta](https://www.linkedin.com/in/suchana-datta-94ba942b/) is a PhD student at University College, Dublin (UCD). Her primary supervisor from UCD is [Derek Greene](http://derekgreene.com/).  With her I'm pursuing novel search interfaces and algorithms towards addressing causality driven search, i.e. where a search user wants to find out documents answering the *Why* question, e.g. *why was Osama bin Laden assassinated?* etc. 
-
-
 ## Mentored students
+
+### Payel Santra
+
+<img src="https://gdebasis.github.io/images/payel.jpg" width="60">
+
+[Payel Santra](https://www.linkedin.com/in/payel-santra-401b37232/?originalSubdomain=in) is a PhD student registered at the Indian Association of the Cultivation of Sciences (IACS) supervised by [Partha Basuchoudhury](http://iacs.res.in/faculty-profile.html?id=147). Her PhD topic is related to misinformation mitigation with large language models (LLMs).
+
 
 ### Madhusudan Ghosh
 
@@ -39,6 +39,12 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 [Madhusudan Ghosh](https://www.linkedin.com/in/madhusudan-ghosh-217672124/) is a PhD student registered at the Indian Association of the Cultivation of Sciences (IACS) supervised by [Sudip Naskar](http://www.jaduniv.edu.in/profile.php?uid=1022) and [Partha Basuchoudhury](http://iacs.res.in/faculty-profile.html?id=147). His PhD topic is related to knowledge base construction from scientific articles.
 
 ## Past PhD/mentored students
+
+### Suchana Dutta
+
+<img src="https://gdebasis.github.io/images/suchana.jpg" width="60">
+
+[Suchana Dutta](https://www.linkedin.com/in/suchana-datta-94ba942b/) is a PhD student at University College, Dublin (UCD). Her primary supervisor from UCD is [Derek Greene](http://derekgreene.com/).  With her I'm pursuing novel search interfaces and algorithms towards addressing causality driven search, i.e. where a search user wants to find out documents answering the *Why* question, e.g. *why was Osama bin Laden assassinated?* etc. 
 
 ### Chandan Biswas
 
