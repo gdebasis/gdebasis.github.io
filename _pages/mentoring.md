@@ -105,4 +105,6 @@ Here's a list of researchers from other universities that I'm fortunate to activ
 - [Srijoni Majumdar](https://www.linkedin.com/in/srijoni-majumdar-060a92120/), University of Leeds, England
 - [Xi Wang](https://www.sheffield.ac.uk/cs/people/academic/xi-wang), University of Sheffield, England
 - [Gul Calikli](https://www.gla.ac.uk/schools/computing/staff/handangulcalikli/), University of Glasgow, Scotland
+- [Kripabandhu Ghosh](https://sites.google.com/view/kripabandhughosh-homepage/home), Indian Institute of Science Education and Research (IISER) Kolkata, India
+- [Dwaipayan Roy](https://www.iiserkol.ac.in/web/en/people/faculty/cds/dwaipayan-roy/#gsc.tab=0), Indian Institute of Science Education and Research (IISER) Kolkata, India
 
