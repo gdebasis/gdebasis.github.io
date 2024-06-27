@@ -98,6 +98,7 @@ Here's a list of researchers from other universities that I'm fortunate to activ
 - [Prasenjit Majumder](https://www.tcgcrest.org/people/prof-prasenjit-majumder/), TCG Crest/DAIICT, India
 - [Gareth J.F. Jones](https://computing.dcu.ie/~gjones/), Dublin City University, Ireland
 - [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/), UCL, England
+- [Manisha Verma](https://www.linkedin.com/in/manisha-verma-94883343/), Amazon, USA
 - [Sudip Kumar Naskar](http://www.jaduniv.edu.in/profile.php?uid=1022), JU, India
 - [Partha Basuchoudhury](http://iacs.res.in/faculty-profile.html?id=147), IACS, India
 - [Tulika Saha](https://www.liverpool.ac.uk/computer-science/staff/), University of Liverpool, England
