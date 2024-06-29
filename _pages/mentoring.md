@@ -9,7 +9,7 @@ redirect_from:
 
 Proud to mentor a number of PhD students, each possessing an inquisitive mind seeking to find solutions to challenging research questions. A number of my recent research papers features these bright young minds as my co-authors.
 
-## Current PhD students
+## Current PhD students at the University of Glasgow
 
 ### Fangzheng (Daneil) Tian
 
@@ -34,7 +34,7 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 [Manish Chandra](https://scholar.google.co.in/citations?user=W2JbsRQAAAAJ&hl=en) is my current student who's doing a PhD (part-time) at the University of Glasgow. Manish's PhD topic involves investigation of **explanation methodologies** and their **quantitative evaluation**. He completed his post-graduation from [IIT-KGP](http://www.iitkgp.ac.in/) in 2021.
 
 
-## Current PhD student mentees
+## Current PhD student mentees external to the Glasgow University
 
 ### Payel Santra
 
@@ -48,6 +48,19 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 <img src="https://gdebasis.github.io/images/madhu.jpeg" width="60">
 
 [Madhusudan Ghosh](https://www.linkedin.com/in/madhusudan-ghosh-217672124/) is a PhD student registered at the Indian Association of the Cultivation of Sciences (IACS) supervised by [Sudip Naskar](http://www.jaduniv.edu.in/profile.php?uid=1022) and [Partha Basuchoudhury](http://iacs.res.in/faculty-profile.html?id=147). His PhD topic is related to knowledge base construction from scientific articles.
+
+### Nilanjan Sinhababu
+
+<img src="https://gdebasis.github.io/images/nilu.jpeg" width="60">
+
+[Nilanjan Sinhababu](https://scholar.google.co.in/citations?user=1ZQJP_EAAAAJ&hl=en) is a PhD student registered at the Indian Institute of Technology, Kharagpur supervised by [Pabitra Mitra](http://www.iitkgp.ac.in/department/CS/faculty/cs-pabitra). His PhD topic explores **In-Context Learning** and **Generative IR**.
+
+### Subinay Adhikari
+
+<img src="https://gdebasis.github.io/images/subinay.jpeg" width="60">
+
+[Subinay Adhikari](https://scholar.google.co.in/citations?user=WuJoVqMAAAAJ&hl=en) is a PhD student registered at the Indian Institute of Science Education and Research (IISER) Kolkata, supervised by [Kripabandhu Ghosh](https://sites.google.com/view/kripabandhughosh-homepage/home) and [Dwaipayan Roy](https://www.iiserkol.ac.in/web/en/people/faculty/cds/dwaipayan-roy/#gsc.tab=0). His PhD topic explore the applications of generative models for **Legal Document Processing**.
+
 
 ## Past PhD/mentored students
 
