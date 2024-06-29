@@ -51,13 +51,13 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 
 ### Nilanjan Sinhababu
 
-<img src="https://gdebasis.github.io/images/nilu.jpeg" width="60">
+<img src="https://gdebasis.github.io/images/nilu.jpg" width="60">
 
 [Nilanjan Sinhababu](https://scholar.google.co.in/citations?user=1ZQJP_EAAAAJ&hl=en) is a PhD student registered at the Indian Institute of Technology, Kharagpur supervised by [Pabitra Mitra](http://www.iitkgp.ac.in/department/CS/faculty/cs-pabitra). His PhD topic explores **In-Context Learning** and **Generative IR**.
 
 ### Subinay Adhikari
 
-<img src="https://gdebasis.github.io/images/subinay.jpeg" width="60">
+<img src="https://gdebasis.github.io/images/subinay.jpg" width="60">
 
 [Subinay Adhikari](https://scholar.google.co.in/citations?user=WuJoVqMAAAAJ&hl=en) is a PhD student registered at the Indian Institute of Science Education and Research (IISER) Kolkata, supervised by [Kripabandhu Ghosh](https://sites.google.com/view/kripabandhughosh-homepage/home) and [Dwaipayan Roy](https://www.iiserkol.ac.in/web/en/people/faculty/cds/dwaipayan-roy/#gsc.tab=0). His PhD topic explore the applications of generative models for **Legal Document Processing**.
 
