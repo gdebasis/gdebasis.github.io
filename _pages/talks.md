@@ -4,7 +4,4 @@ permalink: /talks/
 author_profile: true
 ---
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-
 * [Query Performance Prediction for Adaptive IR and RAG](https://gdebasis.github.io/files/ragtalk.pdf) at [QPP++ Workshop](https://qppworkshop.github.io/) at [ECIR'25](https://ecir2025.eu/)
