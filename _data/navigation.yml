@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /pubs/
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
 #  - title: "Workshops"
 #    url: /teaching/    
@@ -18,10 +18,10 @@ main:
   - title: "Patents"
     url: /patents/
     
-  - title: "Tasks and Workshops"
+  - title: "Tasks/Workshops"
     url: /workshops/
 
-  - title: "Mentees and Collaborators"
+  - title: "Mentees/Collaborators"
     url: /mentoring/
 
   - title: "CV"
