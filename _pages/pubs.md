@@ -4,8 +4,6 @@ permalink: /pubs/
 author_profile: true
 ---
 
-# Publications
-
 ## Conference Papers
 
 - **Is Relevance Propagated from Retriever to Generator in RAG?**<br> Fangzheng Tian, **Debasis Ganguly**, Craig Macdonald<br> *Advances in Information Retrieval - 47th European Conference on Information Retrieval, {ECIR} 2025, Lucca, Italy, April 6-10, 2025, Proceedings, Part {I}*
