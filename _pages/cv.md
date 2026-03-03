@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Information Retrieval, Dublin City University, 2013 [thesis](https://gdebasis.github.io/files/DGthesis.pdf) 
+* Ph.D in Information Retrieval, Dublin City University, 2013 [(thesis)](https://gdebasis.github.io/files/DGthesis.pdf) 
 * M.Tech. (with Hons.) in Computing Science, Indian Statistical Institute University, 2008
 * B.Tech. in Computing Science, University of Kalyani, 2004
 
