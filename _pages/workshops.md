@@ -1,12 +1,19 @@
 ---
-title: "Tasks and Workshops"
+title: "Workshops/Editorials"
 permalink: /workshops/
 author_profile: true
 redirect_from:
   - /workshops
 ---
 
-### Recent workshop organized
+### Editorial
+
+* Special issue in the Journal "Artificial Intelligence and Law" on Applications and Evaluation of Large Language Models in the Legal Domain, Nov 2025
+
+* ACM Transactions on Information Systems Special Issue on Query Performance Prediction Towards Novel Information Retrieval Paradigms, (to appear).
+
+
+### Workshops organized
 
 * [LLMIT](https://gdebasis.github.io/llmit/) -- Tulika Saha, Debasis Ganguly, Sriparna Saha, Prasenjit Mitra:
 Workshop On Large Language Models' Interpretability and Trustworthiness (LLMIT).
