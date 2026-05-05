@@ -7,20 +7,23 @@ redirect_from:
   - /mentoring.html
 ---
 
-Proud to mentor a number of PhD students, each possessing an inquisitive mind seeking to find solutions to challenging research questions. A number of my recent research papers features these bright young minds as my co-authors.
+Proud to supervise/mentor a number of PhD students, each possessing an inquisitive mind seeking to find solutions to challenging research questions. A number of my recent research papers features these bright young minds as my co-authors.
 
 ## Current PhD students at the University of Glasgow
 
-### Fangzheng (Daneil) Tian
+### Akis Lionis
+<img src="https://gdebasis.github.io/images/akis.png" width="60">
 
-[Fangzheng (Daniel) Tian](https://www.gla.ac.uk/schools/computing/staff/fangzhengtian/) is my current PhD student at the University of Glasgow. Daniel's PhD topic involves estimating the performance of retrieval-augmented generation (**RAG**) systems.
+[Akis Lionis](https://lionisakis.github.io/) is my current PhD student at the University of Glasgow. He graduated with MSc in Artificial Intelligence from the University of Amsterdam. His PhD topic centres around effective **parametric approaches for agentic RAG**.
 
+### Hamish Clark
+<img src="https://gdebasis.github.io/images/hamish.png" width="60">
 
-### Susmita Das
-<img src="https://gdebasis.github.io/images/susmita.jpg" width="60">
+[Hanish Clark](https://www.linkedin.com/in/hamish-clark-67a6a01a0/) is my current PhD student at the University of Glasgow. Hamish's PhD topic involves **proactive information seeking for humans and LLM generators**.
 
-[Susmita Das](https://www.linkedin.com/in/susmita-das-a33369140/?originalSubdomain=uk) is my current PhD student at the University of Glasgow. Susmita's PhD topic involves investigation of software **code generation** with LLMs. 
+### Xuejun Chang
 
+[Xuejun Chang](https://www.linkedin.com/in/xuejun-chang-4695a5124/) is my current PhD student at the University of Glasgow. Xuejun's PhD topic involves mitigating **document exposure biases** in neural models.
 
 ### Andrew Parry
 <img src="https://gdebasis.github.io/images/andrew.jpeg" width="60">
@@ -33,8 +36,13 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 
 [Manish Chandra](https://scholar.google.co.in/citations?user=W2JbsRQAAAAJ&hl=en) is my current student who's doing a PhD (part-time) at the University of Glasgow. Manish's PhD topic involves investigation of **explanation methodologies** and their **quantitative evaluation**. He completed his post-graduation from [IIT-KGP](http://www.iitkgp.ac.in/) in 2021.
 
+### Fangzheng (Daneil) Tian
 
-## Current PhD student mentees external to the Glasgow University
+<img src="https://gdebasis.github.io/images/fzhang.jpg" width="60">
+[Fangzheng (Daniel) Tian](https://www.gla.ac.uk/schools/computing/staff/fangzhengtian/) is my current PhD student at the University of Glasgow. Daniel's PhD topic involves estimating the performance of retrieval-augmented generation (**RAG**) systems.
+
+
+## Current PhD student mentees external to the University of Glasgow 
 
 ### Payel Santra
 
@@ -43,26 +51,19 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 [Payel Santra](https://www.linkedin.com/in/payel-santra-401b37232/?originalSubdomain=in) is a PhD student registered at the Indian Association of the Cultivation of Sciences (IACS) supervised by [Partha Basuchoudhury](http://iacs.res.in/faculty-profile.html?id=147). Her PhD topic is related to misinformation mitigation with large language models (LLMs).
 
 
-### Madhusudan Ghosh
-
-<img src="https://gdebasis.github.io/images/madhu.jpeg" width="60">
-
-[Madhusudan Ghosh](https://www.linkedin.com/in/madhusudan-ghosh-217672124/) is a PhD student registered at the Indian Association of the Cultivation of Sciences (IACS) supervised by [Sudip Naskar](http://www.jaduniv.edu.in/profile.php?uid=1022) and [Partha Basuchoudhury](http://iacs.res.in/faculty-profile.html?id=147). His PhD topic is related to knowledge base construction from scientific articles.
-
 ### Nilanjan Sinhababu
 
 <img src="https://gdebasis.github.io/images/nilu.jpg" width="60">
 
 [Nilanjan Sinhababu](https://scholar.google.co.in/citations?user=1ZQJP_EAAAAJ&hl=en) is a PhD student registered at the Indian Institute of Technology, Kharagpur supervised by [Pabitra Mitra](http://www.iitkgp.ac.in/department/CS/faculty/cs-pabitra). His PhD topic explores **In-Context Learning** and **Generative IR**.
 
-### Subinay Adhikari
-
-<img src="https://gdebasis.github.io/images/subinay.jpg" width="60">
-
-[Subinay Adhikari](https://scholar.google.co.in/citations?user=WuJoVqMAAAAJ&hl=en) is a PhD student registered at the Indian Institute of Science Education and Research (IISER) Kolkata, supervised by [Kripabandhu Ghosh](https://sites.google.com/view/kripabandhughosh-homepage/home) and [Dwaipayan Roy](https://www.iiserkol.ac.in/web/en/people/faculty/cds/dwaipayan-roy/#gsc.tab=0). His PhD topic explore the applications of generative models for **Legal Document Processing**.
-
-
 ## Past PhD/mentored students
+
+### Madhusudan Ghosh
+
+<img src="https://gdebasis.github.io/images/madhu.jpeg" width="60">
+
+[Madhusudan Ghosh](https://www.linkedin.com/in/madhusudan-ghosh-217672124/) completed his PhD from the Indian Association of the Cultivation of Sciences (IACS) supervised by [Sudip Naskar](http://www.jaduniv.edu.in/profile.php?uid=1022) and [Partha Basuchoudhury](http://iacs.res.in/faculty-profile.html?id=147). His PhD topic was related to knowledge base construction from scientific articles. He is now working in Phillips Research, India.
 
 ### Suchana Dutta
 
@@ -103,9 +104,12 @@ Proud to mentor a number of PhD students, each possessing an inquisitive mind se
 
 # Collaborators
 
-Here's a list of researchers from other universities that I'm fortunate to actively collaborate with.
+Here's a list of researchers from other universities that I'm fortunate to actively collaborate with
 
 - [Mandar Mitra](https://www.isical.ac.in/mandar-mitra), ISI Kolkata, India
+- [Charles Clarke](https://scholar.google.com/citations?user=TkVleDIAAAAJ&hl=en), University of Waterloo, Canada
+- [Nicola Ferro](https://scholar.google.com/citations?hl=en&user=MP_m6wgAAAAJ),University of Padua, Italy 
+- [Guglielmo Faggioli](https://scholar.google.com/citations?hl=en&user=XrpmghMAAAAJ),University of Padua, Italy 
 - [Prasenjit Mitra](https://scholar.google.com/citations?user=8PbgiPkAAAAJ&hl=en), Penn State University, USA
 - [Pabitra Mitra](http://www.iitkgp.ac.in/department/CS/faculty/cs-pabitra), IIT-KGP, India
 - [Prasenjit Majumder](https://www.tcgcrest.org/people/prof-prasenjit-majumder/), TCG Crest/DAIICT, India
