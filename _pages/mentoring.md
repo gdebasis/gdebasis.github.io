@@ -17,7 +17,7 @@ Proud to supervise/mentor a number of PhD students, each possessing an inquisiti
 [Akis Lionis](https://lionisakis.github.io/) is my current PhD student at the University of Glasgow. He graduated with MSc in Artificial Intelligence from the University of Amsterdam. His PhD topic centres around effective **parametric approaches for agentic RAG**.
 
 ### Hamish Clark
-<img src="https://gdebasis.github.io/images/hamish.png" width="60">
+<img src="https://gdebasis.github.io/images/hamish.jpeg" width="60">
 
 [Hanish Clark](https://www.linkedin.com/in/hamish-clark-67a6a01a0/) is my current PhD student at the University of Glasgow. Hamish's PhD topic involves **proactive information seeking for humans and LLM generators**.
 
